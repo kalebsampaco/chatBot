@@ -1,0 +1,640 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '7BEC22C9CBFDEB4E31AF778565416BFF',
+    participant: undefined
+  },
+  messageTimestamp: 1725999720,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573213272215'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '7252EBCEC4E782D5E172B331F9EB0390',
+    participant: undefined
+  },
+  messageTimestamp: 1725999793,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  keyword: 'key_29d5681b-1563-44d6-bbc2-a79b8b82c496',
+  answer: '🙌 Hola tenemos algo que contarte *responde:* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46f0ff5ab604107b49a85ff90f1a50b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f7b2e350-e90d-4062-85dc-67cb25b1bbdb',
+  keyword: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  answer: '👉 *1* Si quieres saber más\n👉 *2* si quieres contactar un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'acd1ede9a1440d7037bb04af5ad9d8b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5EF813E6653C682DE31CAF5405A0B1',
+    participant: undefined
+  },
+  messageTimestamp: 1725999802,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_87fe2bf0-81d8-4a98-8822-4bfa7d5a0f8f',
+  answer: '📄 Aquí encontras las ayuda que necesitas\n\n*3* Para siguiente paso.',
+  keyword: 'key_72ca26f2-5ac2-4571-9e5c-763742bb5fd6',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [ [Object], [Object] ],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'de37167521ee7e00298ca2015e1428d3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '89D6BE2857173756CA6E084E24998B40',
+    participant: undefined
+  },
+  messageTimestamp: 1725999809,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c599cf74-b579-46b6-83ce-a368f4ea73cd',
+  answer: '📄 Otro flujo',
+  keyword: 'key_f3e2a58d-955d-407b-bd7f-e3eb52bf46ad',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe717028d742b3db67f878942b2cc34e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '49BC3FEA62E47E6B22166DB4730C27C3',
+    participant: undefined
+  },
+  messageTimestamp: 1725999815,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  keyword: 'key_29d5681b-1563-44d6-bbc2-a79b8b82c496',
+  answer: '🙌 Hola tenemos algo que contarte *responde:* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46f0ff5ab604107b49a85ff90f1a50b3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f7b2e350-e90d-4062-85dc-67cb25b1bbdb',
+  keyword: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  answer: '👉 *1* Si quieres saber más\n👉 *2* si quieres contactar un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'acd1ede9a1440d7037bb04af5ad9d8b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '726B4CCA6032CEAD66D655572B37EE61',
+    participant: undefined
+  },
+  messageTimestamp: 1725999822,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_54e6982e-bb34-42b3-b9e2-64e429e7eb91',
+  answer: '🙌 Aquí encontrarás ayuda de un asesor\n\n*3* Para siguiente paso.',
+  keyword: 'key_ec516bf4-3673-45cb-ba5f-e94133c23fd1',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [ [Object], [Object] ],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1d29fed2df8a898efd65b5ca91d57c48'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573213272215@s.whatsapp.net',
+    fromMe: false,
+    id: '1281B4473D07C010B4946EE5B2CAD1A0',
+    participant: undefined
+  },
+  messageTimestamp: 1725999827,
+  pushName: 'geraldinbeltran1997',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573213272215'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c599cf74-b579-46b6-83ce-a368f4ea73cd',
+  answer: '📄 Otro flujo',
+  keyword: 'key_f3e2a58d-955d-407b-bd7f-e3eb52bf46ad',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe717028d742b3db67f878942b2cc34e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08DAD54A4C4D105910C',
+    participant: undefined
+  },
+  messageTimestamp: 1725999976,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pereme ya salgo de una reu y le paso link',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: 'pereme ya salgo de una reu y le paso link',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  keyword: 'key_29d5681b-1563-44d6-bbc2-a79b8b82c496',
+  answer: '🙌 Hola tenemos algo que contarte *responde:* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46f0ff5ab604107b49a85ff90f1a50b3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB031E38E2926A4290696',
+    participant: undefined
+  },
+  messageTimestamp: 1725999977,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      type: 4,
+      ephemeralExpiration: 0,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: '',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f7b2e350-e90d-4062-85dc-67cb25b1bbdb',
+  keyword: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  answer: '👉 *1* Si quieres saber más\n👉 *2* si quieres contactar un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'acd1ede9a1440d7037bb04af5ad9d8b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A2E84131673F25858D',
+    participant: undefined
+  },
+  messageTimestamp: 1725999983,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: '2',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_54e6982e-bb34-42b3-b9e2-64e429e7eb91',
+  answer: '🙌 Aquí encontrarás ayuda de un asesor\n\n*3* Para siguiente paso.',
+  keyword: 'key_ec516bf4-3673-45cb-ba5f-e94133c23fd1',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [ [Object], [Object] ],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1d29fed2df8a898efd65b5ca91d57c48'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F79128D40DC202DECE',
+    participant: undefined
+  },
+  messageTimestamp: 1725999996,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  status: 4,
+  body: '3',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c599cf74-b579-46b6-83ce-a368f4ea73cd',
+  answer: '📄 Otro flujo',
+  keyword: 'key_f3e2a58d-955d-407b-bd7f-e3eb52bf46ad',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fe717028d742b3db67f878942b2cc34e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E9FDD8C63360620044',
+    participant: undefined
+  },
+  messageTimestamp: 1726000807,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'meet.google.com/rhr-jxof-kjq',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: 'meet.google.com/rhr-jxof-kjq',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  keyword: 'key_29d5681b-1563-44d6-bbc2-a79b8b82c496',
+  answer: '🙌 Hola tenemos algo que contarte *responde:* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46f0ff5ab604107b49a85ff90f1a50b3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09E3F980DF43B2E190C',
+    participant: undefined
+  },
+  messageTimestamp: 1726000808,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      type: 4,
+      ephemeralExpiration: 0,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: '',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f7b2e350-e90d-4062-85dc-67cb25b1bbdb',
+  keyword: 'ans_e088c450-d251-403b-923b-c167af81bb14',
+  answer: '👉 *1* Si quieres saber más\n👉 *2* si quieres contactar un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'acd1ede9a1440d7037bb04af5ad9d8b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E2FDCC2F8A3C0D5962',
+    participant: undefined
+  },
+  messageTimestamp: 1726000879,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: '2',
+  from: '573004363269'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_54e6982e-bb34-42b3-b9e2-64e429e7eb91',
+  answer: '🙌 Aquí encontrarás ayuda de un asesor\n\n*3* Para siguiente paso.',
+  keyword: 'key_ec516bf4-3673-45cb-ba5f-e94133c23fd1',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [ [Object], [Object] ],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1d29fed2df8a898efd65b5ca91d57c48'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB089891A090053FD8394',
+    participant: undefined
+  },
+  messageTimestamp: 1726001877,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    documentWithCaptionMessage: FutureProofMessage { message: [Message] }
+  },
+  verifiedBizName: 'W.D.',
+  body: '',
+  from: '573004363269'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573004363269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C0BF74DE3A94DD0888',
+    participant: undefined
+  },
+  messageTimestamp: 1726002008,
+  pushName: 'W.D.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'https://github.com/evertec/athmovil-javascript-api/tree/master',
+      matchedText: 'https://github.com/evertec/athmovil-javascript-api/tree/master',
+      canonicalUrl: 'https://github.com/evertec/athmovil-javascript-api/tree/master',
+      description: 'https://github.com/evertec/athmovil-javascript-api/tree/master',
+      title: 'github.com',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'W.D.',
+  body: 'https://github.com/evertec/athmovil-javascript-api/tree/master',
+  from: '573004363269'
+}
